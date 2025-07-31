@@ -1,0 +1,7 @@
+google-generativeai
+PyMuPDF
+pandas
+pillow
+python-dateutil
+requests
+python-dotenv

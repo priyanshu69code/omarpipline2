@@ -1,0 +1,54 @@
+L1,L2,
+Fixed Income,Government Bonds,Sovereign bonds issued by governments
+Fixed Income,Corporate Bonds,Bonds issued by banks and other companies
+Fixed Income,Municipal Bonds,Bonds issued by municipal corporations
+Fixed Income,Agency Bonds,Bonds issued by government and international agencies
+Fixed Income,Convertible Bonds,Bonds which can be converted from bonds to shares
+Fixed Income,Mortgage-Backed Securities,MBS
+Fixed Income,Asset-Backed Securities,ABS
+Fixed Income,Inflation-Linked Bonds,"TIPS, Linkers, RRB"
+Fixed Income,Floating Rate Notes,FRN
+Fixed Income,Structured Notes,
+Equity Securities,Common Stock,"Stocks, shares"
+Equity Securities,Preferred Shares,preferreds
+Equity Securities,Exchange-Traded Funds,ETFs
+Equity Securities,American Depository Receipts,ADRs
+Equity Securities,Government Depository Receipts,GDRs
+Equity Securities,Mutual Funds,
+Derivatives,Futures,
+Derivatives,Equity Index Futures,
+Derivatives,Interest Rate Futures,
+Derivatives,Commodity Futures,
+Derivatives,Options,
+Derivatives,Equity Options,
+Derivatives,Index Options,
+Derivatives,Interest Rate Options,
+Derivatives,Interest Rate Swaps,IRS
+Derivatives,Credit Default Swaps,CDS
+Derivatives,Total Return Swaps,TRS
+Derivatives,Swaps,"Interest Rate Swaps (IRS),Credit Default Swaps (CDS),Total Return Swaps (TRS)"
+Derivatives,Interest Rate Swaps (IRS),
+Derivatives,Credit Default Swaps (CDS),
+Derivatives,Total Return Swaps (TRS),
+Derivatives,Cross Currency Swaps,
+Derivatives,Swaptions,
+Derivatives,Forward Rate Agreements,FRA
+Cash and Cash Equivalents,Cash,
+Cash and Cash Equivalents,Certificates of Deposit,CD
+Cash and Cash Equivalents,Guaranteed Investment Certificates,GICS
+Cash and Cash Equivalents,Commercial Paper,
+Cash and Cash Equivalents,Treasury Bills,T-Bills
+Cash and Cash Equivalents,Repurchase Agreements,Repos
+Foreign Exchange Instruments,Spot FX,
+Foreign Exchange Instruments,FX Forwards,
+Foreign Exchange Instruments,Non-Deliverable Forwards,NDF
+Foreign Exchange Instruments,FX Options,
+Alternative Investments,Private Equity,
+Alternative Investments,Hedge Funds,
+Alternative Investments,Real Estate,
+Alternative Investments,Infrastructure Investments,
+Commodities,Physical Commodities,
+Commodities,Commodity Derivatives,
+Other Structured Products,Collateralized Debt Obligations,CDO
+Other Structured Products,Collateralized Loan Obligations,CLO
+Other Structured Products,Structured Credit Instruments,

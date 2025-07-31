@@ -1,0 +1,46 @@
+Name,Abbreviation,Country
+Registered Retirement Savings Plan,RRSP,Canada
+Spousal RRSP,Spousal RRSP,Canada
+Registered Retirement Income Fund,RRIF,Canada
+Pooled Registered Pension Plan,PRPP,Canada
+Deferred Profit Sharing Plan,DPSP,Canada
+Tax-Free Savings Account,TFSA,Canada
+Registered Education Savings Plan,RESP,Canada
+Registered Disability Savings Plan,RDSP,Canada
+Registered Pension Plan,RPP,Canada
+Group RRSP,Group RRSP,Canada
+Individual Investment Account,,Canada
+Joint Investment Account,,Canada
+Corporate Investment Account,,Canada
+Trust Account,,Canada
+Locked-In Retirement Account,LIRA,Provincially
+Locked-In Retirement Savings Plan,LRSP,Canada
+Life Income Fund,LIF,Provincially
+Locked-In Retirement Income Fund,LRIF,Canada
+Restricted Life Income Fund,RLIF,Canada
+Prescribed Registered Retirement Fund,PRIF,Canada
+401(k),401(k),USA
+403(b),403(b),USA
+457(b),457(b),USA
+Traditional IRA,IRA,USA
+Roth IRA,Roth IRA,USA
+SEP IRA,SEP,USA
+SIMPLE IRA,SIMPLE,USA
+Inherited IRA,,USA
+Rollover IRA,,USA
+Solo 401(k),Solo 401(k),USA
+Individual Brokerage Account,,USA
+Joint Brokerage Account,,USA
+Custodial Account,UGMA/UTMA,USA
+Cash Management Account,,USA
+Revocable Living Trust,,USA
+Irrevocable Trust,,USA
+Charitable Remainder Trust,CRT,USA
+Charitable Lead Trust,CLT,USA
+Special Needs Trust,,USA
+Family Limited Partnership,FLP,USA
+Limited Liability Company Account,LLC,USA
+529 College Savings Plan,529,USA
+Coverdell Education Savings Account,ESA,USA
+Health Savings Account,HSA,USA
+Flexible Spending Account,FSA,USA
