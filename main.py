@@ -1093,14 +1093,56 @@ def main(
 if __name__ == "__main__":
 
     pdf_file = ["EB Aggressive UBS Template Final 20241001.pdf"]
-    output_folder = "output/EB_UBS"
+    output_folder = "output/eb_ubs1"
     account_definitions_csv = "Account_Types.csv"
     asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
 
     main(pdf_file, output_folder, account_definitions_csv, asset_class_csv, max_workers=5)
 
     pdf_file = ["Etrade Employer Stock Plan Self-Managed - April.pdf"]
-    output_folder = "output/Etr_emp"
+    output_folder = "output/etr_emp1"
+    account_definitions_csv = "Account_Types.csv"
+    asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
+
+    main(pdf_file, output_folder, account_definitions_csv, asset_class_csv, max_workers=5)
+
+    pdf_file = ["EB Aggressive UBS Template Final 20241001.pdf"]
+    output_folder = "output/eb_ubs2"
+    account_definitions_csv = "Account_Types.csv"
+    asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
+
+    main(pdf_file, output_folder, account_definitions_csv, asset_class_csv, max_workers=5)
+
+    pdf_file = ["Etrade Employer Stock Plan Self-Managed - April.pdf"]
+    output_folder = "output/etr_emp2"
+    account_definitions_csv = "Account_Types.csv"
+    asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
+
+    main(pdf_file, output_folder, account_definitions_csv, asset_class_csv, max_workers=5)
+
+    pdf_file = ["EB Aggressive UBS Template Final 20241001.pdf"]
+    output_folder = "output/eb_ubs3"
+    account_definitions_csv = "Account_Types.csv"
+    asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
+
+    main(pdf_file, output_folder, account_definitions_csv, asset_class_csv, max_workers=5)
+
+    pdf_file = ["Etrade Employer Stock Plan Self-Managed - April.pdf"]
+    output_folder = "output/etr_emp3"
+    account_definitions_csv = "Account_Types.csv"
+    asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
+
+    main(pdf_file, output_folder, account_definitions_csv, asset_class_csv, max_workers=5)
+
+    pdf_file = ["EB Aggressive UBS Template Final 20241001.pdf"]
+    output_folder = "output/eb_ubs4"
+    account_definitions_csv = "Account_Types.csv"
+    asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
+
+    main(pdf_file, output_folder, account_definitions_csv, asset_class_csv, max_workers=5)
+
+    pdf_file = ["Etrade Employer Stock Plan Self-Managed - April.pdf"]
+    output_folder = "output/etr_emp4"
     account_definitions_csv = "Account_Types.csv"
     asset_class_csv = "Shatterpoint - Parser - Asset Classification - v1.csv"
 
