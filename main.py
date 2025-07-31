@@ -24,7 +24,7 @@ load_dotenv()
 
 def get_api_key():
     """Fetches the API key from environment variables and validates it."""
-    api_key = "AIzaSyC4zktO8........"
+    api_key = "AIzaSyC4zktO8iLL8l68ORkf3D_deUbuNjZ-GNw"
     if not api_key:
         raise ValueError("GEMINI_API_KEY not found in .env file. Please check your environment configuration.")
     return api_key

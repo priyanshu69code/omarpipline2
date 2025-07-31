@@ -1,0 +1,21 @@
+Date,Security Description,Symbol,Security,Currency,Currency,Quantity,Average Cost,Book Value,Price,Market Value,% Of Portfolio,Accrued Int. & Pending Dividend,Unrealized Gain/Loss,Unrealized Gain/Loss (%),Estimated Annual Income,Yield (%),Currency,Currency,Account Number,Asset Class L2,Asset Class L1,Account Type,Market Value USD
+09/05/2024,Cash,,,USD,USD,,,"54,722.91",,"54,722.91",1.50%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,"54,722.91"
+09/05/2024,Cash,,,USD,USD,,,"54,722.91",,"54,722.91",1.50%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,Cash,Cash and Cash Equivalents,None,"54,722.91"
+09/05/2024,Fixed Income,,,USD,USD,,,"324,381.54",,"355,698.89",9.75%,,"31,317.35",9.65%,"8,642.45",2.75%,USD,USD,11 11111,None,None,None,"355,698.89"
+09/05/2024,US,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,Global,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,International,,,USD,USD,,,"355,698.89",,"355,698.89",9.75%,,"31,317.35",9.65%,"8,642.45",2.75%,USD,USD,11 11111,None,None,None,"355,698.89"
+09/05/2024,Equity,,,USD,USD,,,"1,265,841.04",,"1,415,499.17",38.80%,,"149,658.13",11.82%,"20,541.40",1.87%,USD,USD,11 11111,None,None,None,"1,415,499.17"
+09/05/2024,US,,,USD,USD,,,"210,512.57",,"213,419.33",5.85%,,"2,906.76",1.38%,"3,992.45",1.99%,USD,USD,11 11111,None,None,None,"213,419.33"
+09/05/2024,Global,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,International,,,USD,USD,,,"1,055,328.46",,"1,202,079.83",32.95%,,"146,751.37",13.91%,"16,548.95",1.74%,USD,USD,11 11111,None,None,None,"1,202,079.83"
+09/05/2024,Commodities,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,Alternatives,,,USD,USD,,,0.00,,"1,822,272.77",49.95%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,"1,822,272.77"
+09/05/2024,US,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,Global,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,International,,,USD,USD,,,0.00,,"1,822,272.77",49.95%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,"1,822,272.77"
+09/05/2024,Other,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,Other,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,Balanced,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,Insured Solutions,,,USD,USD,,,0.00,,0.00,0.00%,,0.00,0.00%,0.00,0.00%,USD,USD,11 11111,None,None,None,0.00
+09/05/2024,Total Portfolio,,,USD,USD,,,"1,644,945.48",,"3,648,193.73",100.00%,,"2,003,248.25",121.78%,"29,183.85",1.54%,USD,USD,11 11111,None,None,None,"3,648,193.73"
